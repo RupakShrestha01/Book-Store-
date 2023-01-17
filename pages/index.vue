@@ -1,8 +1,8 @@
 <template>
   <HomeHero />
   <ProductCard />
-  <ProductCard />
-  <ProductCard />
+
+  <Contact />
 </template>
 
 <script>
